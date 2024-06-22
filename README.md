@@ -1,1 +1,1 @@
-# Altschool-Assessment---Frontend
+# Altschool-Assessment-Frontend
